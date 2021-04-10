@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SpaceX
+Created a demo react app for SpaceX missions
 
 # SpaceX App
 
@@ -9,6 +8,13 @@ This Projects shows you the various missions launched by SpaceX in recend year. 
 # Files Related to SpaceXApp project
 
 All the component are defined in Javascript and are stored in src/component folder. The corresponding stylesheets to these components are in src/stylesheets folder.
+
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/82089217/114268630-aeaa6b80-9a1f-11eb-9623-1db4fc007cc3.png)
+
+![image](https://user-images.githubusercontent.com/82089217/114268675-e4e7eb00-9a1f-11eb-9bda-3a87416e7e9e.png)
 
 
 ## Available Scripts
